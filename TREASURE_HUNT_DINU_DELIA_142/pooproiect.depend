@@ -1,0 +1,135 @@
+# depslib dependency file v1.0
+1555879360 source:e:\info\pooproiect\cautator.cpp
+	"Cautator.h"
+	<iostream>
+
+1555879863 e:\info\pooproiect\cautator.h
+	"Harta.h"
+	<iostream>
+
+1555866391 e:\info\pooproiect\harta.h
+	<iostream>
+
+1555879209 source:e:\info\pooproiect\harta.cpp
+	"Harta.h"
+	<iostream>
+
+1555877073 source:e:\info\pooproiect\main.cpp
+	<iostream>
+	"Cautator.h"
+	"Harta.h"
+	"Joc.h"
+	"Comoara.h"
+
+1555877685 e:\info\pooproiect\joc.h
+	"Cautator.h"
+	"Harta.h"
+	"Comoara.h"
+	<iostream>
+
+1555877493 e:\info\pooproiect\comoara.h
+	"Harta.h"
+	<iostream>
+
+1555876470 source:e:\info\pooproiect\comoara.cpp
+	"Comoara.h"
+	<iostream>
+
+1555880604 source:e:\info\pooproiect\joc.cpp
+	"Joc.h"
+	<iostream>
+
+1555879360 source:c:\users\andur\desktop\poo proiect_delia\cautator.cpp
+	"Cautator.h"
+	<iostream>
+
+1556014824 c:\users\andur\desktop\poo proiect_delia\cautator.h
+	"Harta.h"
+	<iostream>
+
+1556014279 c:\users\andur\desktop\poo proiect_delia\harta.h
+	<iostream>
+
+1556015259 source:c:\users\andur\desktop\poo proiect_delia\comoara.cpp
+	"Comoara.h"
+	<iostream>
+
+1555877493 c:\users\andur\desktop\poo proiect_delia\comoara.h
+	"Harta.h"
+	<iostream>
+
+1556015899 source:c:\users\andur\desktop\poo proiect_delia\harta.cpp
+	"Harta.h"
+	<iostream>
+	<windows.h>
+
+1556015980 source:c:\users\andur\desktop\poo proiect_delia\main.cpp
+	<iostream>
+	"Cautator.h"
+	"Harta.h"
+	"Joc.h"
+	"Comoara.h"
+	<time.h>
+
+1556010674 c:\users\andur\desktop\poo proiect_delia\joc.h
+	"Cautator.h"
+	"Harta.h"
+	"Comoara.h"
+	<iostream>
+	<vector>
+
+1556015513 source:c:\users\andur\desktop\poo proiect_delia\joc.cpp
+	"Joc.h"
+	<iostream>
+	<time.h>
+	<conio.h>
+	<windows.h>
+
+1556140067 source:c:\users\deliad\downloads\poo_proiect_tema2_joc_th\poo proiect_delia\cautator.cpp
+	"Cautator.h"
+	<iostream>
+
+1556147951 c:\users\deliad\downloads\poo_proiect_tema2_joc_th\poo proiect_delia\cautator.h
+	"Harta.h"
+	<iostream>
+
+1556147951 c:\users\deliad\downloads\poo_proiect_tema2_joc_th\poo proiect_delia\harta.h
+	<iostream>
+
+1556147951 source:c:\users\deliad\downloads\poo_proiect_tema2_joc_th\poo proiect_delia\comoara.cpp
+	"Comoara.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1556147951 c:\users\deliad\downloads\poo_proiect_tema2_joc_th\poo proiect_delia\comoara.h
+	"Harta.h"
+	<iostream>
+
+1556147951 source:c:\users\deliad\downloads\poo_proiect_tema2_joc_th\poo proiect_delia\harta.cpp
+	"Harta.h"
+	<iostream>
+	<windows.h>
+
+1556016522 source:c:\users\deliad\downloads\poo_proiect_tema2_joc_th\poo proiect_delia\joc.cpp
+	"Joc.h"
+	<iostream>
+	<time.h>
+	<conio.h>
+	<windows.h>
+
+1556147951 c:\users\deliad\downloads\poo_proiect_tema2_joc_th\poo proiect_delia\joc.h
+	"Cautator.h"
+	"Harta.h"
+	"Comoara.h"
+	<iostream>
+	<vector>
+
+1556016604 source:c:\users\deliad\downloads\poo_proiect_tema2_joc_th\poo proiect_delia\main.cpp
+	<iostream>
+	"Cautator.h"
+	"Harta.h"
+	"Joc.h"
+	"Comoara.h"
+	<time.h>
+	<bits/stdc++.h>
+
